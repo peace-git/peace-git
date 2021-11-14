@@ -2,4 +2,4 @@
 - 👀 I’m interested in web and software development
 - 🌱 I’m currently learning Java programming language and Spring framework
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me Telegram peace_00
+- 📫 How to reach me Telegram @vanishblackfish
